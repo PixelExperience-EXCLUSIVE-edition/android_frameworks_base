@@ -10,15 +10,6 @@
 
     <!-- Whether to use Richtap vibration -->
     <java-symbol type="bool" name="config_usesRichtapVibration" />
-
-    <!-- Build properties from a GMS certified device -->
-    <java-symbol type="array" name="config_certifiedBuildProperties" />
-
-    <!-- Whether device has Google Tensor SoC -->
-    <java-symbol type="bool" name="config_hasTensorSoC" />
-
-    <!-- Whether Google Photos is spoofed to Pixel XL for unlimited photos backup -->
-    <java-symbol type="bool" name="config_GPhotosSpoofPixelXL" />
     
     <!-- PowerOffAlarmService -->
     <java-symbol type="string" name="notification_channel_poweroff_alarm" />
